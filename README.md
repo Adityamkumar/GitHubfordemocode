@@ -1,2 +1,2 @@
 # GitHubfordemocode
-This was created for keep my all important code safely
+This is created for keep my all important code safely
