@@ -33,7 +33,7 @@ for i in range(row):
 for i in range(row):
     c=[]
     for j in range(col):
-        d=a[i][j]*b[i][j]  
+        d=a[i][j]+b[i][j]  
         c.append(d)  
     matrix3.append(c)
 c=np.array(matrix3)
