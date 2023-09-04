@@ -1,2 +1,2 @@
 # GitHubfordemocode
-This is created for keep my all important code safely
+This is my first git commit
